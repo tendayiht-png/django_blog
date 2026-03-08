@@ -1,1 +1,0 @@
-#  Individual Full-Stack Project
